@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, There i am sc17
 </h1>
 
-<p align="center">Hi there! I am Sagnik, a CTF player, cybersecurity student, and web pentester. Welcome to my GitHub profile.</p>
+<p align="center">Hi there! I am Sagnik, a CTF player, cybersecurity student, and web pentester. </p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9528xrvdxgpd6rtyl2j6g4kkrbqo13gnskmut7zeiu3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Animated GIF">
