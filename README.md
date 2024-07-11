@@ -44,7 +44,7 @@ I'm passionate about cybersecurity and love participating in CTFs. I specialize 
 
 <p align="center">
   <a href="https://tryhackme.com/p/Sc17">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Sc17.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Sc17.png" alt="TryHackMe">
   </a>
 </p>
 
