@@ -1,3 +1,4 @@
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/bbefa799786133.5efa9bf3d1b49.gif)
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sagnik
 </h1>
