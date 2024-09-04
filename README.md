@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Ctf's,Red Teaming & Anything :)**
 
-- 📫 How to reach me **sagnikchandra9@gmail.com** & And also On my **Insta** :)
+- 📫 How to reach me **sagnikchandra9@gmail.com** & also On my **Insta** :)
 
 - ⚡ Fun fact **I am not a Black Hat!**
 
