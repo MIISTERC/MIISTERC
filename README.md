@@ -9,10 +9,11 @@ I am a web application pentesting student and reverse engineer. I love creating 
 
 My other CTF profiles :-
 <br>
-HackMyVm - https://hackmyvm.eu/public/?u=sc17_
+HackMyVm - [sc17_](https://hackmyvm.eu/public/?u=sc17_)
 <br>
-PicoCTF - https://play.picoctf.org/users/Sc17
+PicoCTF - [Sc17](https://play.picoctf.org/users/Sc17)
 
 <hr>
 <br>
-email - Sc17sec@proton.me
+
+email - [Sc17sec@proton.me](mailto:Sc17sec@proton.me)
